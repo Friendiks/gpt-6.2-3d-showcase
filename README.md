@@ -46,3 +46,11 @@ previously generated wheel.*
 *Object counts refer to the assets rather than the entire
 Blender scenes. Triangle counts include evaluated modifiers
 and converted geometry, excluding separately counted instances.*
+
+## License
+
+All original models, renders, animations, and prompts in this repository are released under CC0 1.0 Universal, to the extent that I hold rights in them.
+
+Feel free to use, modify, redistribute, or sell them, including for commercial purposes. No attribution required, but always appreciated!
+
+Third-party components, including fonts, remain subject to their respective licenses.
