@@ -6,13 +6,15 @@ This repository contains a collection of my experiments with Sol 6.2 and Astra 6
 
 I've spent many hours experimenting with different prompts, agent configurations, and modeling workflows to see how far these models can go.
 
+![Hypercar](hypercar/renders/56_Neon_district.png)
+
 ## Tools & Workflow
 
 - **GPT** for writing, refining, and experimenting with prompts and agent instructions.
 - **Codex** for the agentic harness used to execute the modeling tasks.
-- **Blender MCP** fpr allowing agents to interact with Blender, inspect scenes, and verify their work.
+- **Blender MCP** for allowing agents to interact with Blender, inspect scenes, and verify their work.
 - **Blender Python API** for procedural geometry, materials, lighting, animation, and rendering.
-- **Subagents** for specialize  d agents for modeling individual components, technical analysis, and quality control in some experiments.
+- **Subagents** for specialized agents for modeling individual components, technical analysis, and quality control in some experiments.
 
 ## About the Experiments
 
